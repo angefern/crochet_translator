@@ -1,0 +1,15 @@
+# create a dict with all the terms 
+    # terms = { 
+    #     "ch" : "chain",
+    #     "sl st" : "slip stitch",
+    #     "sc" : "single crochet",
+    #     "hdc" : "half double crochet",
+    #     "dc" : "double crochet",
+    #     "tr" : "treble/triple crochet",
+    #     "trc" : "treble/triple crochet",
+    #     "inc" : "increase",
+    #     "dec" : "decrease",
+    #     # "turn" : "turn your work so you can work on the back for the next row",
+    #     # "join" : "join two stitches (typically by slip stitching in the top of the next stitch)",
+    #     "rep" : "repeat"
+    # }
